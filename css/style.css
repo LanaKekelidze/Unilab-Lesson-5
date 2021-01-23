@@ -1,0 +1,26 @@
+/* .test1 {
+    display:inline-block ;
+    float: right;
+}
+.test2 {
+    display:inline-block ;
+    float: left;
+}
+.wraper-text {
+    background-color: red;
+}
+.clear {
+    clear: both;
+} */
+.left-block {
+    width: 350px;
+    background-color: #F8F8F8;
+}
+.middle-block {
+    width: 350px;
+    background-color: #F8F8F8;
+}
+.right-block {
+    width: 350px;
+    background-color: #F8F8F8;
+}
