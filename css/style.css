@@ -20,8 +20,7 @@
 .left-block {
     width: 352px;
     background-color: #F8F8F8;
-    float: left;
-   
+    float: left; 
 }
 .middle-block {
     width: 352px;
@@ -33,8 +32,7 @@
 .right-block {
     width: 352px;
     background-color: #F8F8F8;
-    float: left;
-    
+    float: left;   
 }
 
 .image-block {
