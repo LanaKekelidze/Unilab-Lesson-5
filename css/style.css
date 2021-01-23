@@ -8,23 +8,23 @@
     height: 20px;
     font-size: 14px;
     color: #5863F8;
-    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
 }
 .title1 {
     width: 465px;
     height: 115px;
     font-size: 42px;
+
     color: #000000;
-    font-weight: bold;
 }
 .left-block {
-    width: 352px;
+    width: 345px;
     background-color: #F8F8F8;
     float: left;
     margin-bottom: 16px;
 }
 .middle-block {
-    width: 352px;
+    width: 345px;
     background-color: #F8F8F8;
     float: left;
     margin-left: 16px;
@@ -32,70 +32,93 @@
     margin-bottom: 16px;
 }
 .right-block {
-    width: 352px;
+    width: 345px;
     background-color: #F8F8F8;
     float: left;
     margin-bottom: 16px;
 }
 
 .image-block {
-    width: 352px;
-    height: 212px;
+    width: 345px;
+    height: 215px;
 }
+
 .text-block1 {
     width: 102px;
     height: 20px;
     font-size: 14px;
-    color: #5863F8;
+    color: #5863F8; 
+    font-family: 'Poppins', sans-serif;
+    margin-right: auto;
+    margin-left: auto;
+   
 }
 .text-block2 {
     width: 226px;
     height: 25px;
     font-size: 18px;
-    color:#000000 ;
-    font-weight: bold;
+    color:#000000;
+    font-family: 'Poppins', sans-serif;
+    margin-right: auto; 
+    margin-left: auto;
 }
 .text-block3 {
     width: 260px;
     height: 42px;
     font-size: 14px;
     color: #B1B1B1;
+    margin-right: auto;
+    margin-left: auto;
 }
 .text-block4 {
     width: 68px;
     height: 20px;
     font-size: 14px;
     color: #5863F8;
+    font-family: 'Poppins', sans-serif;
+    margin-right: auto;
+    margin-left: auto;
 }
 .text-block5 {
     width: 208px;
     height: 25px;
     font-size: 14px;
     color: #000000;
-    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    margin-right: auto;
+    margin-left: auto;
 }
 .text-block6 {
     width: 260px;
     height: 42px;
     font-size: 14px;
     color: #B1B1B1;
+    margin-right: auto;
+    margin-left: auto;
 }
 .text-block7 {
     width: 48px;
     height: 20px;
     font-size: 14px;
     color: #5863F8;
+    font-family: 'Poppins', sans-serif;
+    margin-right: auto;
+    margin-left: auto;
 }
 .text-block8 {
     width: 170px;
     height: 25px;
     font-size: 14px;
     color: #000000;
-    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    margin-right: auto;
+    margin-left: auto;
 }
 .text-block9 {
     width: 260px;
     height: 42px;
     font-size: 14px;
     color: #B1B1B1;
+    margin-right: auto;
+    margin-left: auto;
 }
